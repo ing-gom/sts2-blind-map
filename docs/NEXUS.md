@@ -9,7 +9,7 @@ via the linked README.ko.md in the repo.
 
 ## Summary (≤200 chars)
 
-Hides every map node behind a "?" icon for a fog-of-war run. Boss, the pre-boss rest, your start, and fixed relic nodes stay visible. Visual only — rooms are unchanged. Client-side, multiplayer-safe.
+Every map node becomes a "?" — pick your path blind and discover each room on arrival. Boss, the pre-boss rest, your start, and fixed relic nodes stay shown. Rooms are unchanged; client-side & multiplayer-safe.
 
 ## Description (BBCode, English)
 
