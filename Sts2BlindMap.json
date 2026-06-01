@@ -1,0 +1,11 @@
+{
+  "id": "Sts2BlindMap",
+  "name": "StS2 Blind Map",
+  "author": "inggom",
+  "description": "맵의 모든 노드를 ? (미지) 아이콘으로 가립니다. 보스, 보스 직전 휴식(불), 시작점, 고정 보물(유물) 노드만 원래 아이콘을 유지. 방의 실제 내용은 바뀌지 않으며, 본인 클라이언트 화면에만 적용되는 시각 효과입니다 (게임 상태/멀티플레이 동기화에 영향 없음).",
+  "version": "v0.1.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}
